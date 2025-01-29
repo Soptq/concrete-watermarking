@@ -49,5 +49,7 @@ Finally, the encrypted watermarked image and encrypted secret are processed thro
 Hardware: M1 MAX, 64GB RAM
 
 Number of Samples: 1
+
 Inference Time (FHE): ~20 Mins
+
 PBS: ~296368
